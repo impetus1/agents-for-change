@@ -1,10 +1,6 @@
 ## Installation
 
-To install all of the template files, run the following script from the root of your project's directory:
 
-```
-bash -c "$(curl -s https://raw.githubusercontent.com/CFPB/development/master/open-source-template.sh)"
-```
 
 ----
 
@@ -25,7 +21,6 @@ Other things to include:
 
 **Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
 
-![](https://raw.githubusercontent.com/cfpb/open-source-project-template/master/screenshot.png)
 
 
 ## Dependencies
@@ -80,7 +75,7 @@ General instructions on _how_ to contribute should be stated with a link to [CON
 ## Open source licensing info
 1. [TERMS](TERMS.md)
 2. [LICENSE](LICENSE)
-3. [CFPB Source Code Policy](https://github.com/cfpb/source-code-policy/)
+3. [Code of Conduct](Code_of_Conduct.md)
 
 
 ----
