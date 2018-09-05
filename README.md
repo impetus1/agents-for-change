@@ -87,7 +87,8 @@ General instructions on _how_ to contribute should be stated with a link to [CON
 3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+# This project was bootstrapped with [Create React App]
+(https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
