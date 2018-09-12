@@ -17,7 +17,7 @@ class App extends Component {
                   <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Resources</a>
+                  <a class="nav-link" href="#">Resources and stuff</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">Get Involved</a>
