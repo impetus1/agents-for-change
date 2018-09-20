@@ -3,11 +3,17 @@
 
 # Put some work in 
 
-**Description**:  Put a meaningful, short, plain-language description of what
-this project is trying to accomplish and why it matters.
-Describe the problem(s) this project solves.
-Describe how this software can improve the lives of its audience.
-
+**Description**:  Some things done- Much imagery was spliced, futher work on setting up react routes needs to be done. 
+Major hurdles overcome-- navbar conflicts with background. 
+  -navbar background sizing
+  -parallax sizing 
+  -logo resizing to accomodate navbar
+Immediate todo-- flex boxes, texts and links
+  -additional scrolling for blog posts
+  -asset merging and refactoring
+  -button functionality
+  -text
+-----------------------------------------------------
 Other things to include:
 
   - **Technology stack**: Indicate the technological nature of the software, including primary programming language(s) and whether the software is intended as standalone or as a module in a framework or other ecosystem.
