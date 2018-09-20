@@ -1,0 +1,19 @@
+.navbar{
+
+    padding: 0.2em;
+    
+    background-image: url("Images/navbar.png");
+    background-repeat:no-repeat;
+    display: compact;
+    background-size: cover;
+    background-color: #ed59857a;
+
+  }
+  .navbar-brand{
+    margin-right: 0.02em;
+    padding-bottom: .01em;
+    padding-top: 0.7em;
+  }
+  .app-header{
+    text-shadow: #000 0px 0px 1px;
+  }
