@@ -1,6 +1,7 @@
 ## C4TB Agents for change site-- still in the works
 ------------------------
-![alt text](https://raw.githubusercontent.com/impetus1/agents-for-change/Images/c4tb-a4c.png)
+![Screenshot](Images/c4tb-a4c.png)
+
 
 # Put some work in 
 
