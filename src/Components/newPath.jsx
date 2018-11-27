@@ -1,13 +1,9 @@
-import {React} from 'react'
-import {ReactDOM} from 'react-dom'
-import {route} from 'react-router-dom'
+import React from 'react'
 
-class Blah extends Component {
-    render() {
-        return(
-            <div>
-                <body>
-    <header>
+const Blah = () => (
+    <div>
+
+        <header>
         <nav class="primary-menu">
             <ul>
                 <li>Home</li>
@@ -19,7 +15,7 @@ class Blah extends Component {
         </nav>
         <div class="branding"><p class="heading1">Logo</p></div>
     </header>
-    <section class="hero">
+    <div class="hero">
         <p class="heading2">
                 We are a grassroots effort focused on
                 fostering diversity and inclusion in Pasco
@@ -29,26 +25,26 @@ class Blah extends Component {
             [ Client’s “Value Statement” document ] Together, our commitment to diversity, inclusion, and equity has the potential to positively disrupt and transform entrenched practices and thinking. And as a result, we will hold schools in Land O’Lakes, Wesley Chapel, New Port Richey, and the PascoCountySchoolSystemasawhole, accountabletoagoalofgraduatingstudentswhoareengagedworldcitizens,withadiscerning intelligence, an understanding of inequality and power, and moral courage.
         </p>
         <button>Donate Now</button>
-    </section>
-    <section class="community">
+    </div>
+    <div class="community">
         <h3>Community</h3>
         <div class="box">
-            <img src="https://via.placeholder.com/150" alt="place holder image">
+            <img src="https://via.placeholder.com/150" alt="place holder image"></img>
             <h4>Teacher Story</h4>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit neque aspernatur necessitatibus id iusto, ab ex doloremque corporis adipisci, culpa obcaecati explicabo itaque recusandae, blanditiis sequi iure odio fugiat. Obcaecati!</p>
         </div>
         <div class="box">
-                <img src="https://via.placeholder.com/150" alt="place holder image">
+                <img src="https://via.placeholder.com/150" alt="place holder image"></img>
                 <h4>Event Story</h4>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit neque aspernatur necessitatibus id iusto, ab ex doloremque corporis adipisci, culpa obcaecati explicabo itaque recusandae, blanditiis sequi iure odio fugiat. Obcaecati!</p>
         </div>
         <div class="box">
-                <img src="https://via.placeholder.com/150" alt="place holder image">
+                <img src="https://via.placeholder.com/150" alt="place holder image"></img>
                 <h4>Parent Story</h4>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit neque aspernatur necessitatibus id iusto, ab ex doloremque corporis adipisci, culpa obcaecati explicabo itaque recusandae, blanditiis sequi iure odio fugiat. Obcaecati!</p>
         </div>
-    </section>
-    <section class="press">
+    </div>
+    <div class="press">
         <div class="links">
             <h4>Press</h4>
             <ul class="clippings">
@@ -63,9 +59,9 @@ class Blah extends Component {
             </ul>
         </div>
         <div class="latest-photo">
-            <img src="https://via.placeholder.com/600" alt="place holder image">
+            <img src="https://via.placeholder.com/600" alt="place holder image"></img>
         </div>
-    </section>
+    </div>
     <footer>
         <div class="branding">LOGO</div>
         <button>Donate Now</button>
@@ -82,8 +78,7 @@ class Blah extends Component {
             </ul>
         </menu>
     </footer>
-</body>
+
             </div>
-        )
-}
-}
+);
+export default Blah;
