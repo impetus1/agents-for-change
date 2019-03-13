@@ -1,3 +1,21 @@
+## C4TB Agents for change site-- still in the works
+------------------------
+![Screenshot](c4tb-a4c.png)
+
+
+# Put some work in 
+
+**Description**:  Some things done- Much imagery was spliced, futher work on setting up react routes needs to be done. 
+Major hurdles overcome-- navbar conflicts with background. 
+  -navbar background sizing
+  -parallax sizing 
+  -logo resizing to accomodate navbar
+Immediate todo-- flex boxes, texts and links
+  -additional scrolling for blog posts
+  -asset merging and refactoring
+  -button functionality
+  -text
+-----------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
